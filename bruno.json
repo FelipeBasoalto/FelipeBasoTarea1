@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "DemoApiGrupo7",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
